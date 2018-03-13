@@ -38,3 +38,7 @@ Classification:
 ## Examples
 > See usage_example.ipynb
 
+## Planned Updates
+> Addition of more model types
+> Addition of more metrics
+> Addition of custom metrics
